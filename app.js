@@ -30,5 +30,14 @@ var myPortfolio = [
         client: "Priya",
         date: "April 2015",
         tags: ["Art"]
+    },
+    {
+        id: 3,
+        title: "Fashion Designer",
+        img: "img/portfolio/game.png",
+        description: "Learning to sew",
+        client: "Priya",
+        date: "March 2017",
+        tags: ["Sewing"]
     }
 ];
